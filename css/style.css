@@ -68,7 +68,7 @@
     background-color: rgba(0, 0, 0, .3);
     display: flex;
 
-    background:url('E:/Files/New Web/Photos&Videos/Background.jpg');
+    background:url('./Photos&Videos/Background.jpg');
     
     background-size:cover;
     background-repeat: no-repeat;
@@ -457,3 +457,4 @@
     border-radius: 10px;
 
 }
+
